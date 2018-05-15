@@ -1,0 +1,11 @@
+C:\Dev\Test\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp2.0\WebApplicationTest.deps.json
+C:\Dev\Test\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp2.0\WebApplicationTest.runtimeconfig.json
+C:\Dev\Test\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp2.0\WebApplicationTest.runtimeconfig.dev.json
+C:\Dev\Test\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp2.0\WebApplicationTest.dll
+C:\Dev\Test\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp2.0\WebApplicationTest.pdb
+C:\Dev\Test\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp2.0\WebApplicationTest.csprojAssemblyReference.cache
+C:\Dev\Test\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp2.0\WebApplicationTest.csproj.CoreCompileInputs.cache
+C:\Dev\Test\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp2.0\WebApplicationTest.AssemblyInfoInputs.cache
+C:\Dev\Test\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp2.0\WebApplicationTest.AssemblyInfo.cs
+C:\Dev\Test\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp2.0\WebApplicationTest.dll
+C:\Dev\Test\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp2.0\WebApplicationTest.pdb
